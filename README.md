@@ -74,7 +74,7 @@ python --version      # Windows. macOS·Linux는 python3 --version
 # 예) Python 3.14.2
 ```
 
-- 📂 이 저장소 파일: [GitHub 저장소 페이지](https://github.com/linkcontent7-huisun/E1-2)의 초록색 **[Code]** → **[Download ZIP]**으로 받아 압축을 푼다. Git을 안다면 `git clone git@github.com:linkcontent7-huisun/E1-2.git`.
+- 📂 이 저장소 파일: [GitHub 저장소 페이지](https://github.com/linkcontent7-huisun/codyssey-allinone-E1-2)의 초록색 **[Code]** → **[Download ZIP]**으로 받아 압축을 푼다. Git을 안다면 `git clone git@github.com:linkcontent7-huisun/codyssey-allinone-E1-2.git`.
 - 🧠 전제 지식: **없음.** 아래 명령을 위에서부터 그대로 따라 치면 된다.
 
 ## 🚶 따라 하기
